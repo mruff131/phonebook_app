@@ -1,0 +1,7 @@
+# files to ignore so they wont upload
+
+venv (for space) 
+.env  (for security)
+__pycache__ (for space)
+notes
+notes2
